@@ -74,7 +74,7 @@
 <details>
 <summary><b>📲  Ver comandos para Termux</b></summary>
 
-## 🚀 Instalación Rápida
+## 🚀 Instalación Rápida y sencillo 
 
 ```bash
 termux-setup-storage
