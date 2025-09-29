@@ -179,8 +179,8 @@ npm start
 
 ## 👤 Creador del proyecto
 
-<a href="https://github.com/thecarlos19">
-  <img src="https://github.com/thecarlos19.png" width="250" height="250" alt="thecarlos19"/>
+<a href="https://github.com/Moises19">
+  <img src="https://github.com/Moises19.png" width="250" height="250" alt="Moises19"/>
 </a>
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
