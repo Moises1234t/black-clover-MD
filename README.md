@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://wa.me/525544876071">
-    <img title="Autor" src="https://img.shields.io/badge/CARLOS OFC-black?style=for-the-badge&logo=whatsapp">
+  <a href="https://wa.me/+593999835568">
+    <img title="Autor" src="https://img.shields.io/badge/Moises OFC-black?style=for-the-badge&logo=whatsapp">
   </a>
   <a href="https://instagram.com/_carlitos.zx">
     <img title="Instagram del creador" src="https://img.shields.io/badge/@_carlitos.zx-purple?style=for-the-badge&logo=instagram">
@@ -172,8 +172,8 @@ npm start
 
 | APP | TIPO | ENLACE |
 |------|-------------|--------|
-| 📱 WhatsApp Canal Oficial | Noticias y actualizaciones | [¡Aquí!](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w) |
-| 👥 Grupo de Soporte | Comunidad y ayuda | [¡Aquí!](https://chat.whatsapp.com/GrcUknwrJbNIXIIrbsuXc0) |
+| 📱 WhatsApp Canal Oficial | Noticias y actualizaciones | [¡Aquí!](Sigue el canal de Black Clover en WhatsApp: https://whatsapp.com/channel/0029Vb5wVBjJuyAEWJnx6D1z) |
+| 👥 Grupo de Soporte | Comunidad y ayuda | [¡Aquí!](https://Sigue el canal de Black Clover en WhatsApp: https://whatsapp.com/channel/0029Vb5wVBjJuyAEWJnx6D1z) |
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
