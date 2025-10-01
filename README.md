@@ -173,7 +173,7 @@ npm start
 | APP | TIPO | ENLACE |
 |------|-------------|--------|
 | 📱 WhatsApp Canal Oficial | Noticias y actualizaciones | [¡Aquí!](Sigue el canal de Black Clover en WhatsApp: https://whatsapp.com/channel/0029Vb5wVBjJuyAEWJnx6D1z) |
-| 👥 Grupo de Soporte | Comunidad y ayuda | [¡Aquí!](https://https://chat.whatsapp.com/F9ChhGpL6wF9AjpmlegpwG?mode=ems_copy_t) |
+| 👥 Grupo de Soporte | Comunidad y ayuda | [¡Aquí!https://chat.whatsapp.com/F9ChhGpL6wF9AjpmlegpwG?mode=ems_copy_t](https://https://chat.whatsapp.com/F9ChhGpL6wF9AjpmlegpwG?mode=ems_copy_t) |
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
